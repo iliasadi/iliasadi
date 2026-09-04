@@ -14,22 +14,19 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 I'm **Ilia Asadi**, a **Web Developer** interested in **Cybersecurity, Bug Bounty, Bug Hunting, and Web Security**.
 
 I work with **Python, C, JavaScript, HTML, CSS, and WordPress** and enjoy understanding how applications work — and how they can break.
-`python
+
+```python
 ilia = {
     "role": "Web Developer",
     "languages": ["Python", "C", "JavaScript"],
     "interests": ["Cybersecurity", "Bug Bounty", "Bug Hunting"]
 }
-
-
----
+```
 
 ## ⚡ Tech Stack
 
@@ -39,8 +36,6 @@ ilia = {
 
 </div>
 
----
-
 ## 🎓 Courses & Certificates
 
 - 🎓 **Harvard CS50x**
@@ -49,25 +44,23 @@ ilia = {
 - 🛡️ **CEH Course**
 - ⌨️ **Typing.com Certificate**
 
----
-
 ## 🛡️ Security Interests
+
+<div align="center">
 
 `Bug Bounty` · `Bug Hunting` · `Web Security` · `Ethical Hacking` · `Vulnerability Research`
 
----
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iliasadi&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFAA&icon_color=00FFAA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iliasadi&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFAA&icon_color=00FFAA"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasadi&layout=compact&theme=github_dark&hide_border=true&title_color=00FFAA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasadi&layout=compact&theme=github_dark&hide_border=true&title_color=00FFAA"/>
 
 </div>
-
----
 
 ## 🌐 Socials
 
@@ -91,7 +84,7 @@ ilia = {
 
 </div>
 
----
+<br>
 
 <div align="center">
 
