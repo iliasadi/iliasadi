@@ -1,47 +1,32 @@
-# README.me
-
 ```md
-<!-- ======================================================= -->
-<!--                    ILIA ASADI                           -->
-<!--              GitHub Profile README                     -->
-<!-- ======================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Ilia%20Asadi&fontAlign=50&fontAlignY=38&desc=Web%20Developer%20%7C%20Security%20Enthusiast%20%7C%20Bug%20Hunter&descAlign=50&descAlignY=60&animation=fadeIn&fontSize=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:161B22,100:00FFAA&text=Ilia%20Asadi&fontColor=ffffff&fontSize=55&fontAlignY=36&desc=Web%20Developer%20%7C%20Security%20Enthusiast%20%7C%20Bug%20Hunter&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00FFAA&center=true&vCenter=true&width=900&height=70&lines=Hi+there!+I'm+Ilia+Asadi+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Python+%7C+C+%7C+JavaScript+Programmer+%F0%9F%92%BB;Cybersecurity+%26+Bug+Bounty+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Learning+How+Things+Work+%E2%80%94+and+How+They+Break+%F0%9F%90%9E;Build.+Learn.+Hunt.+Repeat.+%F0%9F%9A%80"/>
 
-<div align="center">
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Ilia+Asadi+%F0%9F%91%8B;Web+Developer+%F0%9F%8C%90;Python+%7C+C+%7C+JavaScript+Programmer+%F0%9F%92%BB;Cybersecurity+%26+Bug+Bounty+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Learning+How+Things+Work+%E2%80%94+and+How+They+Break+%F0%9F%90%9E;Build.+Learn.+Hunt.+Repeat.+%F0%9F%9A%80"
-/>
-
-<br><br>
+<br>
 
 <a href="https://github.com/iliasadi">
 <img src="https://img.shields.io/github/followers/iliasadi?label=Followers&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=iliasadi&label=Profile%20Views&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=iliasadi&label=Profile%20Views&style=for-the-badge&color=00b894"/>
 
 <a href="https://github.com/iliasadi?tab=repositories">
-<img src="https://img.shields.io/github/stars/iliasadi?affiliations=OWNER&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/iliasadi?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About Me
 
 ```python
 class IliaAsadi:
-
     def __init__(self):
         self.name = "Ilia Asadi"
-
         self.role = "Web Developer"
 
         self.languages = [
@@ -56,7 +41,7 @@ class IliaAsadi:
             "WordPress"
         ]
 
-        self.security_interests = [
+        self.security = [
             "Cybersecurity",
             "Bug Bounty",
             "Bug Hunting",
@@ -73,11 +58,11 @@ ilia = IliaAsadi()
 print(ilia.mindset())
 ```
 
-Hi! I'm **Ilia Asadi**, a Web Developer and programmer with a strong interest in **Cybersecurity, Web Security, Bug Bounty, and Bug Hunting**.
+I'm **Ilia Asadi**, a Web Developer and programmer with a strong interest in **Cybersecurity, Web Security, Bug Bounty, and Bug Hunting**.
 
-I enjoy building things, understanding how systems work behind the scenes, and looking at applications from both a **developer's perspective** and a **security perspective**.
+I enjoy building software, understanding how systems work behind the scenes, and looking at applications from both a **developer's perspective** and a **security researcher's perspective**.
 
-My main goal is to continuously improve my skills in programming, web development, ethical hacking, and vulnerability research through hands-on practice and real-world projects.
+My goal is to continuously improve my skills through programming, security research, hands-on practice, real-world projects, and constant learning.
 
 <div align="center">
 
@@ -87,7 +72,7 @@ My main goal is to continuously improve my skills in programming, web developmen
 
 ---
 
-# 💻 Programming & Development
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -103,126 +88,116 @@ My main goal is to continuously improve my skills in programming, web developmen
 
 <br><br>
 
-### Tools
+### Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
 
 </div>
 
----
-
-# 🧰 Tech Stack
+<br>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 <br>
 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
 </div>
 
 ---
 
-# 🛡️ Cybersecurity
+## 🛡️ Cybersecurity & Bug Hunting
+
+```text
+┌──[ SECURITY INTERESTS ]────────────────────────┐
+│                                               │
+│  🐞 Bug Bounty                                │
+│  🔍 Bug Hunting                               │
+│  🌐 Web Application Security                  │
+│  🛡️ Ethical Hacking                           │
+│  🔎 Reconnaissance                            │
+│  🧠 Vulnerability Research                    │
+│  🔐 Security Testing                          │
+│  ⚔️ Offensive Security                        │
+│                                               │
+└───────────────────────────────────────────────┘
+```
+
+I am especially interested in understanding how web applications behave under unexpected conditions and how vulnerabilities can be discovered, analyzed, and prevented.
+
+I believe knowing how applications break can help you become a better developer and build more secure software.
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│              SECURITY INTERESTS                  │
-│                                                  │
-│   🐞 Bug Bounty                                 │
-│   🔍 Bug Hunting                                │
-│   🌐 Web Application Security                   │
-│   🛡 Ethical Hacking                            │
-│   🔎 Reconnaissance                             │
-│   🧠 Vulnerability Research                     │
-│   🔐 Security Testing                           │
-│   ⚔️ Offensive Security Concepts               │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
-</div>
-
-I am especially interested in learning how web applications behave under unexpected conditions and how vulnerabilities can be discovered, understood, and prevented.
-
-My security journey focuses on continuous learning, practical experimentation, and developing a deeper understanding of modern web application security.
-
----
-
-# 🐞 Bug Hunter Mindset
-
-```text
-Target
-  │
-  ▼
-Recon
-  │
-  ▼
-Understand
-  │
-  ▼
-Analyze
-  │
-  ▼
-Test
-  │
-  ▼
-Discover
-  │
-  ▼
-Learn
-```
-
-<div align="center">
-
-### `Security starts with curiosity.`
+### `Think like a developer. Look like an attacker. Act ethically.`
 
 </div>
 
 ---
 
-# 🎓 Education, Courses & Certificates
+## 🐞 Bug Hunter Workflow
+
+```text
+                   ┌──────────────┐
+                   │    TARGET    │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │    RECON     │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │   ANALYZE    │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │     TEST     │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │   DISCOVER   │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │    LEARN     │
+                   └──────────────┘
+```
+
+---
+
+## 🎓 Courses & Certificates
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Harvard-CS50x-A51C30?style=for-the-badge&logo=edx&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Harvard-CS50P-A51C30?style=for-the-badge&logo=python&logoColor=white"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/CEH-Course-EE0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Python-Jadi-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Typing.com-Certificate-2D9CDB?style=for-the-badge"/>
 
 </div>
 
 <br>
-
-### Completed Learning
 
 - 🎓 **Harvard CS50x — Introduction to Computer Science**
 - 🐍 **Harvard CS50P — Introduction to Programming with Python**
@@ -235,16 +210,15 @@ Learn
 
 ---
 
-# ⚡ Current Focus
+## 🎯 Current Focus
 
 ```javascript
-const currentFocus = {
-
+const ilia = {
     development: [
         "Web Development",
         "Python",
         "JavaScript",
-        "Programming Fundamentals"
+        "Programming"
     ],
 
     security: [
@@ -255,21 +229,22 @@ const currentFocus = {
         "Vulnerability Research"
     ],
 
-    mission: "Become better every day."
+    status: "Always Learning",
+
+    mission: "Become better every single day."
 };
 ```
 
 ---
 
-# 🧠 Developer × Security
+## 🧠 Developer × Security Mindset
 
 <table>
-
 <tr>
 
 <td width="50%" align="center">
 
-## 👨‍💻 Developer
+### 👨‍💻 Developer
 
 I enjoy turning ideas into working software.
 
@@ -289,9 +264,9 @@ Improve
 
 <td width="50%" align="center">
 
-## 🐞 Security
+### 🐞 Bug Hunter
 
-I enjoy understanding systems from another perspective.
+I enjoy looking at systems differently.
 
 ```text
 Observe
@@ -308,12 +283,11 @@ Learn
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 🚀 My Goals
+## 🚀 Goals
 
 ```text
 ╔══════════════════════════════════════════════════════╗
@@ -322,13 +296,13 @@ Learn
 ║                                                      ║
 ║  → Improve my cybersecurity knowledge                ║
 ║                                                      ║
-║  → Improve my Web Security skills                     ║
+║  → Master Web Application Security                   ║
 ║                                                      ║
 ║  → Hunt real-world vulnerabilities                   ║
 ║                                                      ║
 ║  → Participate in Bug Bounty programs                ║
 ║                                                      ║
-║  → Learn more about Ethical Hacking                  ║
+║  → Improve my Ethical Hacking skills                 ║
 ║                                                      ║
 ║  → Build useful open-source projects                 ║
 ║                                                      ║
@@ -341,13 +315,13 @@ Learn
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iliasadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iliasadi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA"/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=iliasadi&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=iliasadi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA"/>
 
 </div>
 
@@ -355,60 +329,66 @@ Learn
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasadi&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasadi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFAA"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iliasadi&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iliasadi&bg_color=0D1117&color=FFFFFF&line=00FFAA&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=iliasadi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=iliasadi&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iliasadi/iliasadi/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iliasadi/iliasadi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iliasadi/iliasadi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/iliasadi/iliasadi/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-# 💡 A Little More About Me
+## 💡 More About Me
 
 - 🐍 I enjoy programming with **Python**
 - 💻 I also work with **C and JavaScript**
-- 🌐 I work with **WordPress**
+- 🌐 I build and work with websites
+- 🧩 I work with **WordPress**
 - 🎨 I know **HTML & CSS**
 - 🐞 I enjoy finding and understanding bugs
 - 🔐 I'm interested in **Cybersecurity**
 - 🌐 I'm interested in **Web Application Security**
 - 🎯 I'm exploring **Bug Bounty**
 - 🛡️ I'm learning more about **Ethical Hacking**
-- 🧠 I enjoy understanding how systems work internally
-- 📚 I believe consistent learning is one of the most important skills in technology
+- 🔍 I enjoy understanding how systems work internally
+- 🧠 I love solving technical problems
+- 📚 I believe continuous learning is one of the most important skills in technology
 - 🚀 I'm always looking for the next challenge
 
 ---
 
-# 🖥️ Terminal
+## 🖥️ Terminal
 
 ```bash
 ┌──(ilia㉿github)-[~]
@@ -451,7 +431,7 @@ Repeat.
 
 ---
 
-# 🌐 Social Accounts
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -481,35 +461,7 @@ Repeat.
 
 ---
 
-# 🔗 Find Me Online
-
-<div align="center">
-
-<a href="https://github.com/iliasadi">
-<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/iliaasadiii">
-<img src="https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/iliaasadiii">
-<img src="https://img.shields.io/badge/Follow-X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@iliaasadiii">
-<img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://t.me/iliaasadiii">
-<img src="https://img.shields.io/badge/Contact-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🔐 Security Philosophy
+## 🔐 Security Philosophy
 
 <div align="center">
 
@@ -523,7 +475,7 @@ Every failure reveals behavior.
 Every challenge makes you better.
 ```
 
-### `Stay curious. Stay ethical. Keep learning.`
+### `Stay Curious • Stay Ethical • Keep Learning`
 
 </div>
 
@@ -531,13 +483,9 @@ Every challenge makes you better.
 
 <div align="center">
 
-# 🐞 `while (alive) { code(); learn(); hunt(); }`
+## 🐞 `while (alive) { code(); learn(); hunt(); }`
 
-<br>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%91%8B;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Exploring+%F0%9F%94%8D;Keep+Hunting+%F0%9F%90%9E"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=00FFAA&center=true&vCenter=true&width=800&height=80&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%91%8B;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%A7%A0;Keep+Building+%F0%9F%9A%80;Keep+Exploring+%F0%9F%94%8D;Keep+Hunting+%F0%9F%90%9E"/>
 
 <br>
 
@@ -545,8 +493,9 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&dur
 
 ### Feel free to explore my repositories and follow my journey.
 
-<br><br>
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FFAA,50:161B22,100:0D1117&section=footer"/>
 
 </div>
+```
