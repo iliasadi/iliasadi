@@ -56,9 +56,9 @@ ilia = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iliasadi&show_icons=true&theme=github_dark&hide_border=true&title_color=00FFAA&icon_color=00FFAA"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iliasadi&theme=github_dark" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasadi&layout=compact&theme=github_dark&hide_border=true&title_color=00FFAA"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iliasadi&theme=github_dark" />
 
 </div>
 
