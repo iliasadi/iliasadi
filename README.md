@@ -44,6 +44,17 @@ ilia = {
 - 🛡️ **CEH Course**
 - ⌨️ **Typing.com Certificate**
 
+
+<h3>🏆 My Certificates</h3>
+
+<div align="center">
+
+  <img src="./CS50x.png" width="48%" />
+  <img src="./CS50P.png" width="48%" />
+
+</div>
+
+
 ## 🛡️ Security Interests
 
 <div align="center">
